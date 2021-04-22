@@ -1,0 +1,13 @@
+{
+    "name": "tsukachou/calendar",
+    "authors": [{
+        "name": "Enzo",
+        "email": "enzo.boucherand@epitech.eu"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/Calendar"
+        }
+    },
+    "require": {}
+}
